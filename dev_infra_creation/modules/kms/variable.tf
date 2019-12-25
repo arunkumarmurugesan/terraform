@@ -1,0 +1,2 @@
+variable "projectname" {}
+variable "tags" {}
